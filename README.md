@@ -6,33 +6,51 @@
 
 ## Projects
 
-### [프로젝트 이름]
-- **설명**: [프로젝트에 대한 설명]
-- **기술 스택**: [기술 스택]
-- **기여도**: [기여한 부분]
-- **스크린샷**: ![스크린샷](스크린샷 링크)
-- **링크**: [프로젝트 링크]
+### [Tutorial UI & InputSystem]
+- **설명**: [DirectX11와 UI 및 입력 시스템]
+- **기술 스택**: [DirectX11, C++]
+- **스크린샷**: ![Tutorial UI](https://github.com/user-attachments/assets/6ccaad66-2417-4c8a-ba22-98371e68e63b)
+- **깃허브**: [https://github.com/h117562/Tutorial_UI]
+- **블로그**: [https://h117562report.blogspot.com/2024/07/directx-tutorial-ui.html]
 
 
 ### [Tutorial DirectWrite]
 - **설명**: [DirectX11와 DirectWrite를 사용한 문자 렌더링 프로그램]
-- **스크린샷**: ![스크린샷](스크린샷 링크)
+- **기술 스택**: [DirectX11, C++]
+- **스크린샷**: ![Tutorial_Dwrite](https://github.com/user-attachments/assets/f75b1c34-ebd9-4460-b7b7-822353b46768)
 - **깃허브**: [https://github.com/h117562/Tutorial_DirectWrite]
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx-tutorial-3.html]
 
 
 ### [DirectX Tutorial Assimp]
 - **설명**: [Assimp 라이브러리를 사용하여 모델파일을 렌더링하는 프로그램]
-- **스크린샷**: ![스크린샷](스크린샷 링크)
+- **기술 스택**: [DirectX11, C++]
 - **깃허브**: [https://github.com/h117562/Tutorial_Assimp]
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx-tutorial-assimp.html]
 
 
 ### [DirectX Tutorial FbxSDK]
 - **설명**: [FbxSDK를 사용하여 모델파일을 렌더링하는 프로그램]
-- **스크린샷**: ![스크린샷](스크린샷 링크)
+- **기술 스택**: [DirectX11, C++]
 - **깃허브**: [https://github.com/h117562/Tutorial_FbxSDK]
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx11-tutorial-fbxsdk.html]
+
+
+### [DreamArcade]
+- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 4]
+- **기술 스택**: [Unity, C#]
+- **기여도**: [게임 개발, 어플 출시(개발자 계정 정지로 어플 내려감), 광고 삽입(심사 실패)]
+- **깃허브**: [https://github.com/h117562/FINAL]
+- **개발 내용**: [https://www.figma.com/board/0d45PjQPWRVpwnfMHUkc4t/3D-Puzzle-Game-Team-18-Project?node-id=0-1]
+
+- **정지 사유**:![화면 캡처 2024-07-14 002933](https://github.com/user-attachments/assets/18892014-75cf-43cf-8239-6faa5a6154b5)
+
+
+### [Left4Dead3]
+- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 3]
+- **기술 스택**: [Unity, C#]
+- **기여도**: [애니메이션 및 플레이어 이동, 카메라 기능]
+- **깃허브**: [https://github.com/Noname136-rpg/Left4Dead3]
 
 
 ### [7_Eleven_Kepler442]
@@ -61,6 +79,12 @@
 - **기여도**: [스킬 구현, 직업 선택, 새 캐릭 생성]
 - **깃허브**: [https://github.com/uhbbang33/TextRPG_3]
 
+
+### [algorithms]
+- **설명**: [C#으로 풀어보는 알고리즘(브랜치를 선택하여 문제들 볼 수 있음)]
+- **기술 스택**: [C#]
+- **깃허브**: [https://github.com/h117562/AlgorithmTutorial]
+- **스크린샷**: ![Algorithm Branches](https://github.com/user-attachments/assets/ddce574f-5f1d-4c7d-847f-acf7c93911dd)
 
 
 ## Technology Stack
