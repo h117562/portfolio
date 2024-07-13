@@ -35,24 +35,32 @@
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx11-tutorial-fbxsdk.html]
 
 
-### [Team9_Mini_Game_Project]
-- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 2]
-- **기술 스택**: [Unity, C#]
-- **기여도**: [게임의 건축 시스템을 담당하였음]
-- **스크린샷**: ![9조 프로젝트 정리본](https://github.com/user-attachments/assets/eee4d0f6-c5e6-4212-9019-852d4a0e9e65)
-- **깃허브**: [https://github.com/Einstephener/Team9_Mini_Game_Project]
-- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-1.html]
-- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-2.html]
-
-
 ### [7_Eleven_Kepler442]
-- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 3]
+- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 2]
 - **기술 스택**: [Unity, C#]
 - **기여도**: [게임의 건축 시스템을 담당하였음]
 - **스크린샷**: ![7조 프로젝트 정리본](https://github.com/user-attachments/assets/ac471c26-f63b-4d4c-80fc-9c80e6ddcde0)
 - **깃허브**: [https://github.com/sagongminsu/7ELEVEN]
 - **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-1.html]
 - **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-2.html]
+
+
+### [Team9_Mini_Game_Project]
+- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 1]
+- **기술 스택**: [Unity, C#]
+- **기여도**: [패들 및 공을 위주로 작업]
+- **스크린샷**: ![9조 프로젝트 정리본](https://github.com/user-attachments/assets/eee4d0f6-c5e6-4212-9019-852d4a0e9e65)
+- **깃허브**: [https://github.com/Einstephener/Team9_Mini_Game_Project]
+- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-1.html]
+- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-2.html]
+
+
+### [TextRPG]
+- **설명**: [팀프로젝트로 C#을 이용하여 만든 RPG 게임]
+- **기술 스택**: [C#]
+- **기여도**: [스킬 구현, 직업 선택, 새 캐릭 생성]
+- **깃허브**: [https://github.com/uhbbang33/TextRPG_3]
+
 
 
 ## Technology Stack
