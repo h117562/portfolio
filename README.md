@@ -9,6 +9,22 @@
 
 ## Projects
 
+
+
+
+
+### [XAudio2 3D]
+- **설명**: [DirectX11와 XAudio2 3D음향 효과]
+- **기술 스택**: [DirectX11, C++]
+- **깃허브**: [https://github.com/h117562/Tutorial_XAudio2_3D]
+
+
+### [DirectSound]
+- **설명**: [DirectSound로 wav 파일 재생]
+- **기술 스택**: [DirectX11, C++]
+- **깃허브**: [https://github.com/h117562/Tutorial_DirectSound]
+
+
 ### [Tutorial UI & InputSystem]
 - **설명**: [DirectX11와 UI 및 입력 시스템]
 - **기술 스택**: [DirectX11, C++]
