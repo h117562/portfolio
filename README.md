@@ -9,6 +9,13 @@
 
 ## Projects
 
+### [Java Socket Programming]
+- **설명**: [채팅 프로그램(자바 소켓 프로그래밍)]
+- **기술 스택**: [Java]
+- **스크린샷**: ![Chat Program](https://)
+- **깃허브**: [https://github.com/h117562/ChatProgram]
+
+
 ### [Tutorial UI & InputSystem]
 - **설명**: [DirectX11와 UI 및 입력 시스템]
 - **기술 스택**: [DirectX11, C++]
