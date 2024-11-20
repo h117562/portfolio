@@ -11,7 +11,7 @@
 
 
 ### [XAudio2 3D]
-- **설명**: [DirectX11와 XAudio2 3D음향 효과]
+- **설명**: [DirectX11와 XAudio2 3D음향 효과] - WASD 이동으로 좌우 음향 테스트
 - **기술 스택**: [DirectX11, C++]
 - **깃허브**: [https://github.com/h117562/Tutorial_XAudio2_3D]
 
