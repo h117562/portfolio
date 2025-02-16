@@ -1,11 +1,16 @@
 # [Ro WooJin] - Programmer
  
 ## Introduction
-저는 대한민국에서 거주하고 있는 프로그래머입니다. 주로 DirectX에 대해 관심이 많습니다.
-원래는 고등학교 졸업 후 대학에 갈 생각이 없었지만, 막상 다녀보니 컴퓨터 그래픽 쪽에 흥미가 생겼습니다. 독학으로 DirectX로 게임을 만들어 본 결과, 진로를 이쪽으로 정하게 되었습니다. 
+ 안녕하세요 저는 대한민국에서 거주하고 있는 프로그래머입니다. 주로 DirectX에 대해 관심이 많습니다.
+c++, 
 팀워크나 소통은 문제없이 가능하며, 다양한 프로젝트 경험으로 문제 해결 능력을 키웠습니다.
-새로운 기술을 배우는 것을 두려워하지 않아 온라인 강의를 수강하여 유니티 엔진을 공부하는 등 좀 더 나은 프로그래머로써 성장하고자 노력하고 있습니다.
+새로운 기술을 배우는 것을 두려워하지 않아 온라인 강의를 수강하여 공부하는 등 좀 더 나은 프로그래머로써 성장하고자 노력하고 있습니다.
 
+
+## Technology Stack
+- 프로그래밍 언어: C++, C#, JavaScript, Python
+- 프레임워크: DirectX11, Unity
+- 도구: Git, Visual Studio(Code), Eclipse, Jupyter notebook
 
 ## Projects
 
@@ -112,12 +117,6 @@
 - **기술 스택**: [C#]
 - **깃허브**: [https://github.com/h117562/AlgorithmTutorial]
 - **스크린샷**: ![Algorithm Branches](https://github.com/user-attachments/assets/ddce574f-5f1d-4c7d-847f-acf7c93911dd)
-
-
-## Technology Stack
-- 프로그래밍 언어: C++, C#, JavaScript, Python
-- 프레임워크: DirectX11, Unity
-- 도구: Git, Visual Studio(Code), Eclipse, Jupyter notebook
 
 
 ## 연락처
