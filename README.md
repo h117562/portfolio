@@ -43,23 +43,22 @@
 - **기술 스택**: [DirectX11, C++]
 - **깃허브**: [https://github.com/h117562/Tutorial_Assimp]
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx-tutorial-assimp.html]
-
+- **스크린샷**: ![Image](https://github.com/user-attachments/assets/96e98ad9-2514-4fb3-ba6e-b46eb74207f6)
 
 ### [DirectX Tutorial FbxSDK]
 - **설명**: [FbxSDK를 사용하여 모델파일을 렌더링하는 프로그램]
 - **기술 스택**: [DirectX11, C++]
 - **깃허브**: [https://github.com/h117562/Tutorial_FbxSDK]
 - **블로그**: [https://h117562report.blogspot.com/2024/06/directx11-tutorial-fbxsdk.html]
-
+- **스크린샷**: 
 
 ### [DreamArcade]
-- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 4]
+- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 4 (모바일)]
 - **기술 스택**: [Unity, C#]
-- **기여도**: [게임 개발, 어플 출시(개발자 계정 정지로 어플 내려감), 광고 삽입(심사 실패)]
+- **기여도**: [미니게임, 모델 애니메이션, 어플 출시(현재는 마켓에 없습니다.), 광고 삽입]
 - **깃허브**: [https://github.com/h117562/FINAL]
 - **개발 내용**: [https://www.figma.com/board/0d45PjQPWRVpwnfMHUkc4t/3D-Puzzle-Game-Team-18-Project?node-id=0-1]
-
-- **정지 사유**:![화면 캡처 2024-07-14 002933](https://github.com/user-attachments/assets/18892014-75cf-43cf-8239-6faa5a6154b5)
+- **시연 영상**: [https://www.youtube.com/watch?v=XCa8xoNS-HM]
 
 
 ### [Left4Dead3]
@@ -77,27 +76,18 @@
 - **깃허브**: [https://github.com/sagongminsu/7ELEVEN]
 - **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-1.html]
 - **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-2.html]
-
-
-### [Team9_Mini_Game_Project]
-- **설명**: [팀프로젝트로 Unity 엔진를 사용하여 만든 게임 1]
-- **기술 스택**: [Unity, C#]
-- **기여도**: [패들 및 공을 위주로 작업]
-- **스크린샷**: ![9조 프로젝트 정리본](https://github.com/user-attachments/assets/eee4d0f6-c5e6-4212-9019-852d4a0e9e65)
-- **깃허브**: [https://github.com/Einstephener/Team9_Mini_Game_Project]
-- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-1.html]
-- **블로그**: [https://h117562report.blogspot.com/2023/12/unity-teamproject-survival-game-2.html]
-
+- **시연 영상**: [https://www.youtube.com/watch?v=FASkdPKc4ek]
 
 ### [TextRPG]
 - **설명**: [팀프로젝트로 C#을 이용하여 만든 RPG 게임]
 - **기술 스택**: [C#]
 - **기여도**: [스킬 구현, 직업 선택, 새 캐릭 생성]
 - **깃허브**: [https://github.com/uhbbang33/TextRPG_3]
+- **시연 영상**: [https://youtu.be/1M3vx1mVwxo?si=PfzNwvzyO_tYGAWY]
 
 
 ### [algorithms]
-- **설명**: [C#으로 풀어보는 알고리즘(브랜치를 선택하여 문제들 볼 수 있음)]
+- **설명**: [C#으로 풀어보는 알고리즘(브랜치를 선택하여 문제들을 볼 수 있습니다.)]
 - **기술 스택**: [C#]
 - **깃허브**: [https://github.com/h117562/AlgorithmTutorial]
 - **스크린샷**: ![Algorithm Branches](https://github.com/user-attachments/assets/ddce574f-5f1d-4c7d-847f-acf7c93911dd)
