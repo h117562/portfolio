@@ -9,6 +9,27 @@
 
 ## Projects
 
+### [Chat Program]
+- **설명**: [winsock2.h 로 구현한 채팅 프로그램]
+- **기술 스택**: [DirectX11, C++]
+- **깃허브**: [https://github.com/h117562/ChatProgram]
+- **시연영상**: ![Image](https://github.com/user-attachments/assets/ebf02c31-d777-4246-8ad6-7d7daa39e9b4)
+- **블로그**: [https://h117562report.blogspot.com/2025/02/c-winsock2.html]
+
+
+### [Fire Shader]
+- **설명**: [불효과 쉐이더]
+- **기술 스택**: [DirectX11, C++, HLSL]
+- **깃허브**: [https://github.com/h117562/Tutorial_Effect]
+- **시연영상**: ![Image](https://github.com/user-attachments/assets/79d540fa-0fff-415c-be4d-923b83c5335a)
+
+
+### [Refection]
+- **설명**: [반사 구현]
+- **기술 스택**: [DirectX11, C++, HLSL]
+- **깃허브**: [https://github.com/h117562/Tutorial_Reflection]
+- **시연영상**: ![Image](https://github.com/user-attachments/assets/802df13d-24e1-48e9-98e8-045a36ee613e)
+
 
 ### [XAudio2 3D]
 - **설명**: [DirectX11와 XAudio2 3D음향 효과] - WASD 이동으로 좌우 음향 테스트
