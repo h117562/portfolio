@@ -54,7 +54,6 @@ c++, java, python, c# 등 가리는 언어는 없으며 주로 DirectX에 대해
 - **기술 스택**: [DirectX11, C++]
 - **스크린샷**: ![Tutorial UI](https://github.com/user-attachments/assets/6ccaad66-2417-4c8a-ba22-98371e68e63b)
 - **깃허브**: [https://github.com/h117562/Tutorial_UI]
-- **블로그**: [https://h117562report.blogspot.com/2024/07/directx-tutorial-ui.html]
 
 
 ### [Tutorial DirectWrite]
