@@ -9,11 +9,18 @@ c++, java, python, c# 등 가리는 언어는 없으며 주로 DirectX에 대해
 잘 부탁드립니다.
 
 ## Technology Stack
-- 프로그래밍 언어: C++, C#, JavaScript, Python
+- 프로그래밍 언어: C++, C#, JavaScript, Python, lua
 - 프레임워크: DirectX11, Unity
-- 도구: Git, Visual Studio(Code), Eclipse, Jupyter notebook
+- 도구: Git, Visual Studio(Code), Eclipse, Jupyter notebook, pycharm, Unity
 
 ## Projects
+
+### [Image To Text]
+- **설명**: [이미지를 텍스트로 변환하는 프로그램]
+- **기술 스택**: [python, easyOCR]
+- **깃허브**: [https://github.com/h117562/Tutorial_OCR]
+- **시연영상**: ![Image](https://github.com/user-attachments/assets/24d1d4a7-289c-4ef8-b8fb-ae4c1d9f5e25)
+
 
 ### [Chat Program]
 - **설명**: [winsock2.h 로 구현한 채팅 프로그램]
